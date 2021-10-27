@@ -10,10 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "landing"
-			},
-			"compression": {
-				"type": "ZipDeflate"
+				"container": "sampledata"
 			}
 		}
 	}
