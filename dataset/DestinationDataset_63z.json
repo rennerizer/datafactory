@@ -10,7 +10,11 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "sampledata"
+				"fileName": "azure-data-factory-by-example-main.zip",
+				"container": "landing"
+			},
+			"compression": {
+				"type": "ZipDeflate"
 			}
 		}
 	}
