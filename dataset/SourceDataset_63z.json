@@ -14,7 +14,8 @@
 				"container": "landing"
 			},
 			"compression": {
-				"type": "ZipDeflate"
+				"type": "ZipDeflate",
+				"level": "Fastest"
 			}
 		}
 	}
