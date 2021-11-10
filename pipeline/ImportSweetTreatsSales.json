@@ -1,0 +1,9 @@
+{
+	"name": "ImportSweetTreatsSales",
+	"properties": {
+		"folder": {
+			"name": "CopyDataAdvanced"
+		},
+		"annotations": []
+	}
+}
